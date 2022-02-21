@@ -1,0 +1,69 @@
+.roupa-de-baixo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    color: #fff;
+}
+
+#linha-descricao{
+    background-color: #BB86FC
+    ;
+    text-align: center;
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+    width: 300px;
+}
+#produto-1{
+    background-color: #424250;
+    text-align: center;
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+    width: 300px;
+    color: #fff;
+}
+#produto-2{
+    background-color: #424250;
+    text-align: center;
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+    width: 300px;
+    color: #fff;
+}
+th{
+    padding: 6px;
+}
+
+.domesticos{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    color: #fff;
+}
+#descricao-domesticos{
+    background-color: #00C4B4;
+    text-align: center;
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+    width: 300px;
+}
+#domesticos-1{
+    background-color: #424250;
+    text-align: center;
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+    width: 300px;
+    color: #fff;
+}
+#domesticos-2{
+    background-color: #424250;
+    text-align: center;
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+    width: 300px;
+    color: #fff;
+}
+

@@ -1,0 +1,41 @@
+body{
+background-color: darkseagreen;
+}
+
+#texto, h1{
+    text-align: center;
+}
+h1{
+    border-radius: 12px;
+    width: 450px;
+    background-color: rgb(162, 204, 223);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#foto{
+    text-align: center;
+}
+img{
+    width: 300px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#orientacao, h2{
+    text-align: center;
+}
+h2{
+    border-radius: 12px;
+    width: 450px;
+    background-color: rgb(162, 201, 223);
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    background-color: rgba(255, 1, 1, 0.157);
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+}

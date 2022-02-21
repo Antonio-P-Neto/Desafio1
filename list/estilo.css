@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(102, 189, 160);
+    margin: 0%;
+
+}
+
+
+
+#descricao{
+  background-color: rgb(250, 253, 200);
+  margin-right: 250px;
+  margin-left: 250px;
+  border-radius: 15px;
+  text-align: center;
+}
+
+
+#lista{
+    background-color: rgb(231, 197, 153);
+    display: block;
+    text-align: center;
+    padding: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 15px;
+    text-transform: uppercase;
+}
+

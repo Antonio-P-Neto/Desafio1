@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(20, 20, 20);
+    margin: 0;
+}
+.base{
+    display: block;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#leite{
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #F5F5F5;
+    padding: 20px;
+}
+#sopa{
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #F0CCE2;
+    padding: 20px;
+    margin-top: 40px;
+}
